@@ -21,7 +21,7 @@
       <ul>
         {% for item in feed.items %}
         <li>
-          <span>{{ item.timestamp | formatDate }} -</span>
+          <span>{{ item.timestamp | formatDate }}</span><span class="delimiter">-</span>
           <a
             href="{{ item.link }}"
             target="_blank"
