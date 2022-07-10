@@ -15,7 +15,7 @@ details:hover {
 
 details ul li {
   display: grid;
-  grid-template-columns: min-content 1ch 1fr;
+  grid-template-columns: 9ch 1ch 1fr;
   gap: 1ch;
 }
 
