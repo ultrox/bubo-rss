@@ -13,7 +13,10 @@ details:hover {
 }
 
 
-details ul li {}
+details ul li {
+  display: grid;
+  grid-template-columns: 11ch 1fr;
+}
 
 summary {
   cursor: pointer;
