@@ -4,10 +4,11 @@
     "https://web.dev/feed.xml",
     "https://v8.dev/blog.atom",
     "https://css-tricks.com/feed/",
-    "https://dev.to/feed"
+    "https://dev.to/feed",
   ],
   "Blogs": [
-    "https://joy.recurse.com/feed.atom"
+    "https://joy.recurse.com/feed.atom",
+    "https://ishadeed.com/feed.xml"
   ],
   "Something123": [
     "https://github.com/georgemandis.atom"
